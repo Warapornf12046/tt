@@ -298,19 +298,6 @@ a:focus {
     align-items: center;
 }
 
-
-/* .slider_section:before {
-    content: "";
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 75%;
-    height: 100%;
-    background-image: url(../imgTwo/B770.jpg);
-    background-size: 100% 100%;
-    z-index: 2;
-} */
-
 .slider_section:before {
     content: "";
     position: absolute;
@@ -324,26 +311,6 @@ a:focus {
     max-width: 100%;
     object-fit: cover;
 }
-
-
-/* add รูปลม */
-
-
-/* รูปเบลอๆข้างหลัง */
-
-
-/* .slider_section:after {
-    content: "";
-    position: absolute;
-    top: 25px;
-    right: 45px;
-    width: 550px;
-    height: 550px;
-    background-image: url(../images/slider-bg2.png);
-    background-size: cover;
-    background-position: bottom right;
-    z-index: 1;
-} */
 
 .slider_section .detail_box {
     color: #ffffff;
